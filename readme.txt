@@ -1,2 +1,3 @@
 git is yym control 
-git is simon simon simon
+it is simon simon simon
+hello simon
